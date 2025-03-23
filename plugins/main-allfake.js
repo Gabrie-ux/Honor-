@@ -28,19 +28,19 @@ console.log(`Error : ${e}`)
 }}
   
 //creador y otros
-global.creador = 'Wa.me/50488198573'
+global.creador = 'Wa.me/ 941 658 192'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'Wa.me/50488198573'
-global.namechannel = '𝑲𝒊𝒓𝒊𝒕𝒐-𝑴𝑫 - 𝒖𝒑𝒅𝒂𝒕𝒆𝒔☆'
-global.namechannel2 = '𝑲𝒊𝒓𝒊𝒕𝒐-𝑴𝑫 - 𝒂𝒗𝒊𝒔𝒐𝒔☆'
-global.namegrupo = '✦ 𝐤𝐢𝐫𝐢𝐭𝐨-𝐁𝐨𝐭 𝐌𝐃 ☆'
-global.namecomu = '✭𝐊𝐢𝐫𝐢𝐭𝐨 𝐌𝐃 𝐂𝐨𝐦𝐮𝐧𝐢𝐭𝐲 ✪'
+global.namechannel = 'hayabusa-𝑴𝑫 - 𝒖𝒑𝒅𝒂𝒕𝒆𝒔☆'
+global.namechannel2 = 'hayabusa-𝑴𝑫 - 𝒂𝒗𝒊𝒔𝒐𝒔☆'
+global.namegrupo = '✦ hayabusa-𝐁𝐨𝐭 𝐌𝐃 ☆'
+global.namecomu = '✭hayabusa𝐌𝐃 𝐂𝐨𝐦𝐮𝐧𝐢𝐭𝐲 ✪'
 global.listo = '⚡ *Aquí tienes o(^▽^)o*'
 global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://files.catbox.moe/56el7x.jpg')
 
 //Ids channel
 global.canalIdM = ["120363365444927738@newsletter", "120363365444927738@newsletter"]
-global.canalNombreM = ["☆ 𝒌𝒊𝒓𝒊𝒕𝒐 - 𝑩𝒐𝒕 𝑴𝑫 • 𝒖𝒑𝒅𝒂𝒕𝒆𝒔 ☆", "☆ 𝒌𝒊𝒓𝒊𝒕𝒐 - 𝑩𝒐𝒕 𝑴𝑫 • 𝒂𝒗𝒊𝒔𝒐𝒔 ☆"]
+global.canalNombreM = ["☆ Hayabusa - 𝑩𝒐𝒕 𝑴𝑫 • 𝒖𝒑𝒅𝒂𝒕𝒆𝒔 ☆", "☆ Hayabusa - 𝑩𝒐𝒕 𝑴𝑫 • 𝒂𝒗𝒊𝒔𝒐𝒔 ☆"]
 global.channelRD = await getRandomChannel()
 
 //fechas
@@ -58,7 +58,7 @@ global.done = '✅'
 global.error = '✖️'
 global.msm = '⚠︎'
 
-//Emojis determinado de kirito Bot
+//Emojis determinado de Hayabusa Bot
 global.emoji = '『✧』'
 global.emoji2 = '《⌬》'
 global.emoji3 = '〖✪〗'
@@ -74,11 +74,11 @@ global.waittt = '✭ Espera un momento, soy lento...';
 global.waitttt = '✯ Espera un momento, soy lento...';
 
 //Enlaces
-var canal = 'https://whatsapp.com/channel/0029VawF8fBBvvsktcInIz3m'  
-let canal2 = 'https://whatsapp.com/channel/0029VayQwPsFnSzESZJ9Us3z'
-var git = 'https://github.com/deylinqff'
-var github = 'https://github.com/deylinqff/Kirito-Bot-MD' 
-let correo = 'deylibaquedano801@gmail.com'
+var canal = 'https://whatsapp.com/channel/0029VbANZiu3bbUxvYrBNw1D` 
+let canal2 = 'https://whatsapp.com/channel/0029VbANZiu3bbUxvYrBNw1D`
+var git = 'https://github.com/dilannqff'
+var github = 'https://github.com/dilannqff/Kirito-Bot-MD' 
+let correo = 'dilanbaquedano801@gmail.com'
 
 global.redes = [canal, canal2, git, github, correo].getRandom()
 
@@ -103,7 +103,7 @@ var more = String.fromCharCode(8206)
 global.readMore = more.repeat(850)
 
 global.packsticker = `┏━──────━◆◆━──────━┓\n✰ Usuario: ${nombre}\n⚔✰ Bot: ${botname}\n✰ Fecha: ${fecha}\n✰ Hora: ${tiempo}\n┗━──────━◆◆━──────━┛`;
-global.packsticker2 = `\n┏━──────━◆◆━──────━┓\n👑 Desarrollador: ${dev}\n┗━──────━◆◆━──────━┛`;
+global.packsticker2 = `\n┏━──────━◆◆━──────━┓\n👑 Desarrollador: ${div}\n┗━──────━◆◆━──────━┛`;
   
 //Fakes
 global.fkontak = { key: {participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: `6285600793871-1614953337@g.us` } : {}) }, message: { 'contactMessage': { 'displayName': `${nombre}`, 'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;${nombre},;;;\nFN:${nombre},\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`, 'jpegThumbnail': null, thumbnail: null,sendEphemeral: true}}}
