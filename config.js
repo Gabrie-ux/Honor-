@@ -35,19 +35,19 @@ global.baileys = 'V 6.7.13'
 global.languaje = 'Español'
 global.vs = '2.2.0'
 global.vsJB = '5.0'
-global.nameqr = '𝕂𝕚𝕣𝕚𝕥𝕠 𝕓𝕠𝕥 𝕄𝔻'
-global.namebot = '𝐤𝐢𝐫𝐢𝐭𝐨 𝐌𝐃'
+global.nameqr = 'hayabusa 𝕄𝔻'
+global.namebot = 'hayabusa 𝐌𝐃'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
-global.kiritoJadibts = true
+global.hayabusaJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packname = 'hayabusa` 𝐌𝐃'
 global.botname = 'hayabusa- 𝑩𝒐𝒕'
 global.wm = 'hayabusa 𝐌𝐃'
-global.author = 'Made By 𝐃𝐞𝐲𝐥𝐢𝐧'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ 𝑫𝒆𝒚𝒍𝒊𝒏'
+global.author = 'Made By 𝐃ilan'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ dilan'
 global.textbot = 'hayabusa- 𝐁𝐨𝐭 • Powered By dani
 global.etiqueta = '𝑫ani`
 
@@ -66,13 +66,13 @@ global.photoSity = [catalogo]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.gp1 = 'https://chat.whatsapp.com/F8KwM3rVqkS9HhR5msoRqQ'
-global.comunidad1 = 'https://chat.whatsapp.com/F8KwM3rVqkS9HhR5msoRqQ'
-global.channel = 'https://whatsapp.com/channel/0029VawF8fBBvvsktcInIz3m'
-global.channel2 = 'https://whatsapp.com/channel/0029VayQwPsFnSzESZJ9Us3z'
-global.md = 'https://github.com/deylinqff/Kirito-Bot-MD'
-global.correo = 'deylibaquedano801@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029VawF8fBBvvsktcInIz3m';
+global.gp1 = 'https://chat.whatsapp.com/FeWfraCmhn0BFtRatwm7oM
+global.comunidad1 = 'https://chat.whatsapp.com/FeWfraCmhn0BFtRatwm7oM
+global.channel = 'https://whatsapp.com/channel/0029VbANZiu3bbUxvYrBNw1D'
+global.channel2 = 'https://whatsapp.com/channel/0029VbANZiu3bbUxvYrBNw1D`
+global.md = 'https://github.com/dilannqff/Kirito-Bot-MD'
+global.correo = 'dilanbaquedano801@gmail.com'
+global.cn ='https://whatsapp.com/channel/0029VbANZiu3bbUxvYrBNw1D`
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
