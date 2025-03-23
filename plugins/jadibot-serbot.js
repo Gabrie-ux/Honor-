@@ -18,7 +18,7 @@ let crm4 = "IF9hdXRvcmVzcG9uZGVyLmpzIGluZm8tYm90Lmpz"
 let drm1 = ""
 let drm2 = ""
 let rtx = `╭───────────────✎  
-│  ツ 𝗞𝗜𝗥𝗜𝗧𝗢 - 𝗕𝗢𝗧 𝗠𝗗 ➳  
+│  ツ Hayabusa- 𝗕𝗢𝗧 𝗠𝗗 ➳  
 ╰───────────────✎  
 > ★ 𝗖𝗼𝗻𝗲𝘅𝗶ó𝗻 𝗦𝘂𝗯-𝗕𝗼𝘁 (𝗠𝗼𝗱𝗼 𝗤𝗥) ✈  
 
@@ -33,7 +33,7 @@ let rtx = `╭───────────────✎
 `;
 
 let rtx2 = `╭───────────────⍰  
-│  ✭ 𝗞𝗜𝗥𝗜𝗧𝗢 - 𝗕𝗢𝗧 𝗠𝗗 ✰  
+│  ✭ Hayabusa- 𝗕𝗢𝗧 𝗠𝗗 ✰  
 ╰───────────────⍰ 
 > ✰ 𝗖𝗼𝗻𝗲𝘅𝗶ó𝗻 𝗦𝘂𝗯-𝗕𝗼𝘁 (𝗠𝗼𝗱𝗼 𝗖𝗼́𝗱𝗶𝗴𝗼) ✪  
 
@@ -63,17 +63,17 @@ return m.reply(`${emoji2} No se han encontrado espacios para *Sub-Bots* disponib
 }
 let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
 let id = `${who.split`@`[0]}`  //conn.getName(who)
-let pathkiritoJadiBot = path.join(`./${jadi}/`, id)
-if (!fs.existsSync(pathkiritoJadiBot)){
+let pathhayabusaJadiBot = path.join(`./${jadi}/`, id)
+if (!fs.existsSync(pathhayabusaJadiBot)){
 fs.mkdirSync(pathkiritoJadiBot, { recursive: true })
 }
-kiritoJBOptions.pathkiritoJadiBot = pathkiritoJadiBot
-kiritoJBOptions.m = m
-kiritoJBOptions.conn = conn
-kiritoJBOptions.args = args
-kiritoJBOptions.usedPrefix = usedPrefix
-kiritoJBOptions.command = command
-kiritoJadiBot(kiritoJBOptions)
+HayabusaJBOptions.pathkiritoJadiBot = pathkiritoJadiBot
+HayabusaJBOptions.m = m
+HayabusaJBOptions.conn = conn
+HayabusaJBOptions.args = args
+HayabusaJBOptions.usedPrefix = usedPrefix
+hayabusaJBOptions.command = command
+HayabusaJadiBot (kiritoJBOptions)
 global.db.data.users[m.sender].Subs = new Date * 1
 } 
 handler.help = ['serbot', 'serbot code']
@@ -178,11 +178,11 @@ global.conns.splice(i, 1)
 const reason = lastDisconnect?.error?.output?.statusCode || lastDisconnect?.error?.output?.payload?.statusCode
 if (connection === 'close') {
 if (reason === 428) {
-console.log(chalk.bold.magentaBright(`\n╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄ • • • ┄┄┄┄┄┄┄┄┄┄┄┄┄┄⟡\n┆ La conexión (+${path.basename(pathkiritoJadiBot)}) fue cerrada inesperadamente. Intentando reconectar...\n╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄ • • • ┄┄┄┄┄┄┄┄┄┄┄┄┄┄⟡`))
+console.log(chalk.bold.magentaBright(`\n╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄ • • • ┄┄┄┄┄┄┄┄┄┄┄┄┄┄⟡\n┆ La conexión (+${path.basename(pathhayabusaJadiBot)}) fue cerrada inesperadamente. Intentando reconectar...\n╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄ • • • ┄┄┄┄┄┄┄┄┄┄┄┄┄┄⟡`))
 await creloadHandler(true).catch(console.error)
 }
 if (reason === 408) {
-console.log(chalk.bold.magentaBright(`\n╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄ • • • ┄┄┄┄┄┄┄┄┄┄┄┄┄┄⟡\n┆ La conexión (+${path.basename(pathkiritoJadiBot)}) se perdió o expiró. Razón: ${reason}. Intentando reconectar...\n╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄ • • • ┄┄┄┄┄┄┄┄┄┄┄┄┄┄⟡`))
+console.log(chalk.bold.magentaBright(`\n╭┄┄┄┄┄┄┄┄┄┄┄┄┄┄ • • • ┄┄┄┄┄┄┄┄┄┄┄┄┄┄⟡\n┆ La conexión (+${path.basename(pathhayabusaJadiBot)}) se perdió o expiró. Razón: ${reason}. Intentando reconectar...\n╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄ • • • ┄┄┄┄┄┄┄┄┄┄┄┄┄┄⟡`))
 await creloadHandler(true).catch(console.error)
 }
 if (reason === 440) {
