@@ -18,7 +18,7 @@ global.confirmCode = ''
 
 global.owner = [
   [ '+51 941 658 192', 'dilan', true ],
-  [ '', 'wilsek', true ],
+  [ '+505 5786 5603', 'wilsek', true ],
   [ '+51 941 658 192', 'dilan', true ],
   [ '+51 941 658 192', 'dilan',true ]
 ]; // <-- Corchete de cierre y coma añadidos
