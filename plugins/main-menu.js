@@ -12,7 +12,7 @@ let handler = async (m, { conn, args }) => {
     let txt = `
 *⌬━━━━━▣━━◤⌬◢━━▣━━━━━━⌬*
 
-Hola *@${userId.split('@')[0]}* soy *${botname}*
+Hola *@${userId.split('@')[0]}* soy *${Hayabusa bot}*
 
 ╔══════⌬『 𝑰 𝑵 𝑭 𝑶 』
 ║ ✎ Cliente: @${userId.split('@')[0]}
@@ -384,7 +384,7 @@ Hola *@${userId.split('@')[0]}* soy *${botname}*
 ┃〘  🔥 .codigo <cantidad de llamas>
 ┃〘  🔥 .ip <alamat ip>
 *┗━━━━━━━━━━━➤*
-> © kirito-Bot by Deylin
+> © Hayabusa-Bot by Dilan
   `.trim();
 
     await conn.sendMessage(m.chat, { 
