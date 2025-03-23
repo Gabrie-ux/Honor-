@@ -17,10 +17,10 @@ global.confirmCode = ''
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  [ '50488198573', 'Deylin', true ],
-  [ '595975677765', 'Davidius', true ],
-  [ '639104096580', 'José', true ],
-  [ '5216633900512', 'Brayan',true ]
+  [ '+51 941 658 192', 'dilan', true ],
+  [ '', 'wilsek', true ],
+  [ '+51 941 658 192', 'dilan', true ],
+  [ '+51 941 658 192', 'dilan',true ]
 ]; // <-- Corchete de cierre y coma añadidos
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
