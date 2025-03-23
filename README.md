@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=👑+¡HOLA,+SOY+KIRITO-BOT!+🔥" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=👑+¡HOLA,+SOY+Hayabusa-BOT!+🔥" alt="Typing SVG">
 </h1>
 
 <a href="https://media.tenor.com/0y8yGK559cAAAAAM/flames-twin.gif"><img
@@ -12,7 +12,7 @@ src="https://media.tenor.com/0y8yGK559cAAAAAM/flames-twin.gif" width="350" heigh
 src="https://media.tenor.com/0y8yGK559cAAAAAM/flames-twin.gif" width="350" height="5" alt="maicolxyz777"/></a>
 
 ### 🏆 **Poder y Precisión en un Solo Bot**  
-📌 **Creado por:** `Deylin`  
+📌 **Creado por:** `Dilan`  
 ⚔ **Optimizado para WhatsApp**  
 🔮 **Diseño inspirado en Sword Art Online**  
 🚀 **¡Rápido, potente y seguro!**  
@@ -129,7 +129,7 @@ src="https://media.tenor.com/0y8yGK559cAAAAAM/flames-twin.gif" width="350" heigh
 ## 📊 **Estadísticas de GitHub**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deylinqff&repo=Kirito-Bot-MD&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=deylinqff&repo=Hayabusa-Bot-MD&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deylinqff&repo=Kirito-Bot-MD&theme=radical&hide_border=true" alt="Racha de GitHub">
 </p>
 
@@ -163,7 +163,7 @@ src="https://media.tenor.com/0y8yGK559cAAAAAM/flames-twin.gif" width="350" heigh
   </a>
 </p>
 
-## ⚔️ [© Powered By Deyin 👑](https://Wa.me/50488198573)
+## ⚔️ [© Powered By Dilan 👑](https://Wa.me/50488198573)
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VawF8fBBvvsktcInIz3m" target="_blank">
