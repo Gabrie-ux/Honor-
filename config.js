@@ -43,13 +43,13 @@ global.kiritoJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '𝐤𝐢𝐫𝐢𝐭𝐨-𝐁𝐨𝐭 𝐌𝐃'
-global.botname = '𝑲𝒊𝒓𝒊𝒕𝒐 - 𝑩𝒐𝒕'
-global.wm = '𝐤𝐢𝐫𝐢𝐭𝐨 𝐌𝐃'
+global.packname = 'hayabusa` 𝐌𝐃'
+global.botname = 'hayabusa- 𝑩𝒐𝒕'
+global.wm = 'hayabusa 𝐌𝐃'
 global.author = 'Made By 𝐃𝐞𝐲𝐥𝐢𝐧'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ 𝑫𝒆𝒚𝒍𝒊𝒏'
-global.textbot = '𝐤𝐢𝐫𝐢𝐭𝐨 - 𝐁𝐨𝐭 • Powered By 𝑫𝒆𝒚𝒍𝒊𝒏'
-global.etiqueta = '𝑫𝒆𝒚𝒍𝒊𝒏'
+global.textbot = 'hayabusa- 𝐁𝐨𝐭 • Powered By dani
+global.etiqueta = '𝑫ani`
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
