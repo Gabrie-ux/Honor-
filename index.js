@@ -11,7 +11,7 @@ import fs, {readdirSync, statSync, unlinkSync, existsSync, mkdirSync, readFileSy
 import yargs from 'yargs';
 import {spawn} from 'child_process'
 import lodash from 'lodash'
-import { kiritoJadiBot } from './plugins/jadibot-serbot.js';
+import { HayabusabotJadiBot } from './plugins/jadibot-serbot.js';
 import chalk from 'chalk'
 import syntaxerror from 'syntax-error'
 import {tmpdir} from 'os'
@@ -41,15 +41,15 @@ const PORT = process.env.PORT || process.env.SERVER_PORT || 3000
 //let require = createRequire(megu)
 let { say } = cfonts
 
-console.log(chalk.bold.redBright(`\n✰ Iniciando kirit-Bot-MD ✰\n`))
+console.log(chalk.bold.redBright(`\n✰ Iniciando Hayabusa-Bot-MD ✰\n`))
 
-say('kirit-Bot-MD', {
+say('hayabusa-Bot-MD', {
 font: 'block',
 align: 'center',
 colors: ['magentaBright']
 })
 
-say(`Developed By • Deylin`, {
+say(`Developed By • dilan`, {
 font: 'console',
 align: 'center',
 colors: ['blueBright']
@@ -212,7 +212,7 @@ if (opcion == '1' || methodCodeQR) {
 console.log(chalk.bold.yellow(`\n❐ ESCANEA EL CÓDIGO QR EXPIRA EN 45 SEGUNDOS`))}
 }
 if (connection == 'open') {
-console.log(chalk.bold.green('\n👑 kirit-Bot-MD Conectada con éxito 👑'))
+console.log(chalk.bold.green('\n👑 Hayabusa-Bot-MD Conectada con éxito 👑'))
 }
 let reason = new Boom(lastDisconnect?.error)?.output?.statusCode
 if (connection === 'close') {
@@ -289,7 +289,7 @@ return true
 
 global.rutaJadiBot = join(__dirname, './JadiBots')
 
-if (global.kiritoJadibts) {
+if (global.hayabusabotJadibts) {
 if (!existsSync(global.rutaJadiBot)) {
 mkdirSync(global.rutaJadiBot, { recursive: true }) 
 console.log(chalk.bold.cyan(`La carpeta: ${jadi} se creó correctamente.`))
