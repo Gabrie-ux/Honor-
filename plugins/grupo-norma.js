@@ -19,7 +19,7 @@ No abuses de los comandos en poco tiempo para evitar saturar el bot.
 No compartas información ilegal, ofensiva o con derechos de autor.  
 
 🔹 *4. Uso Responsable:*  
-Kirito Bot es una herramienta de asistencia y entretenimiento, no un soporte oficial.  
+Hayabusa bot Bot es una herramienta de asistencia y entretenimiento, no un soporte oficial.  
 
 🔹 *5. Seguridad y Ética:*  
 No intentes explotar, hackear o modificar el bot sin autorización.  
