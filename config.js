@@ -70,7 +70,7 @@ global.gp1 = 'https://chat.whatsapp.com/FeWfraCmhn0BFtRatwm7oM
 global.comunidad1 = 'https://chat.whatsapp.com/FeWfraCmhn0BFtRatwm7oM
 global.channel = 'https://whatsapp.com/channel/0029VbANZiu3bbUxvYrBNw1D'
 global.channel2 = 'https://whatsapp.com/channel/0029VbANZiu3bbUxvYrBNw1D`
-global.md = 'https://github.com/dilannqff/Kirito-Bot-MD'
+global.md = 'https://github.com/dilannqff/Hayabusa -Bot-MD'
 global.correo = 'dilanbaquedano801@gmail.com'
 global.cn ='https://whatsapp.com/channel/0029VbANZiu3bbUxvYrBNw1D`
 
