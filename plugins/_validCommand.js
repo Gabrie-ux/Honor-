@@ -33,7 +33,7 @@ export async function before(m) {
           buttonText: { displayText: '📜 Ver Menú' },
         },
       ],
-      footer: 'Kirito-Bot',
+      footer: 'hayabusa-Bot',
       viewOnce: true,
     }, { quoted: m });
   }
